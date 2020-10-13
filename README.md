@@ -1,2 +1,2 @@
-# python_blog_materials
+# Test case for blogs and forums
 Some materials for my blogs
